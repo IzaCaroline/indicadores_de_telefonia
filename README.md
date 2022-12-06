@@ -8,10 +8,12 @@ Foi realizado levantamento de dados de telefonia de Gestão pública, através d
 <br>Para buscar os dados teve necessariamente o ambiente de integração do CRM 3CX para auxiliar no requerimento e tratar os dados no formato certo, após isso manipular os dados e exibir nas tabelas e views.
 <br>
 CRM 3CX
-<br>![interface_3cx](https://user-images.githubusercontent.com/99855235/206008644-abc8be4c-fa04-4128-a5ad-5ef8de22f1ef.png)
+<br>
+![interface_3cx](https://user-images.githubusercontent.com/99855235/206008644-abc8be4c-fa04-4128-a5ad-5ef8de22f1ef.png)
 <br>
 Hasura
-<br>![interface_hasura](https://user-images.githubusercontent.com/99855235/206006181-31dad4a0-1649-403b-a9d0-67f528a2bd8b.png)
+<br>
+![interface_hasura](https://user-images.githubusercontent.com/99855235/206006181-31dad4a0-1649-403b-a9d0-67f528a2bd8b.png)
 <br>
 Após realizar a produção do código.
 <h1><li>Finalidade</li></h1>
