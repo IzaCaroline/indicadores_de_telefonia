@@ -22,5 +22,3 @@ AppsScript
 
 <h1><li>Conclusão</li></h1>
 Com a dashboard de Indicadores de Telefonia, pode-se observar o uso dos telefones voip fixos e softphones usados na gestão pública no intervalo de período de 6 meses, consequentemente remanejar os equipamentos sem uso e transferir os ramais de agentes que inutilizam os mesmos, para melhor aproveitar o serviço contratado.
-
-<h1>Esclarecimentos finais<\>:  Os dados enviados  do CRM 3CX, foram imcompatíveis com o relatório do gerenciador 3CX, pois os dados que eram enviado registravam as ligações sm as pontes(transferências) ocorridas durante a mesma, enquanto o relatório do gerenciador 3CX, detalhava e registrava as pontes, de forma que cada uma delas tinham registro único.
